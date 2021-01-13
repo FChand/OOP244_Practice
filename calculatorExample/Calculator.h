@@ -1,5 +1,5 @@
 
 // Calculator.h
 // ...
-int power(int, int);
-int exponent(int, int);
+float power(int, int);
+int exponent(float , int);

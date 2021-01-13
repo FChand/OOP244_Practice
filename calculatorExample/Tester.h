@@ -1,4 +1,4 @@
 
 // Tester.h
 
-int testSuite(int BASE, int EXPONENT, int RESULT);
+int testSuite(int BASE, int EXPONENT, float RESULT);
